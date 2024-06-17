@@ -9,7 +9,7 @@ The goal of this project was to create a simple scheduler.
 - The main solution I strove for was to make the scheduler functional given the starter code.
 - My main learning experience from this project was how to effectively apply a third-party API like jQuery to an application.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
